@@ -1,0 +1,33 @@
+.custom:hover {
+  background-color: #777;
+  transition: ease-in-out 1s;
+}
+
+/* .background {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 5%,
+    rgba(0, 212, 255, 1) 100%
+  );
+} */
+
+.background {
+  background-color: #18334f;
+}
+
+.background-button {
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(6, 60, 241, 1) 100%,
+    rgba(0, 212, 255, 1) 100%,
+    rgba(9, 9, 121, 1) 125%
+  );
+}
+
+.colors {
+  color: #00ffff;
+}
